@@ -43,7 +43,7 @@ Recently, I developed https://cottonchat.com, which helps you find people who wa
 </p>
 
 <br/>
-<h2 align="left">My Projects 💡</h2>
+<h5 align="left">My Projects 💡</h5>
 
 <h2>Paratime</h2> 
 <img src="https://arnav.upon.one/projects/paratime.png" width="400"/>
