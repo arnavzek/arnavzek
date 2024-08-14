@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arnav Zek</h1>
 <h3 align="center">Full Stack Dev . 3D Artist . Game Dev . UI/UX Designer</h3>
-
+<br/><br/>
 I have created multiple products that people use on a day-to-day basis, such as https://paratime.app, a VSCode extension that allows you to see how many hours your friends have coded compared to you, making programming social and fun.
 
 After Paratime, I created https://shortbooks.app, which allows you to write short books online. It is a platform that enables people to learn new skills and knowledge in a fast and structured way.
