@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Arnav Zek</h1>
-<h3 align="center">Full Stack Dev . 3D Artist . Game Dev . UI/UX Designer</h3>
+<h1 align="left">Hi 👋, I'm Arnav Zek</h1>
+<h3 align="left">Full Stack Dev . 3D Artist . Game Dev . UI/UX Designer</h3>
 
 
 
