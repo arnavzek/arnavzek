@@ -4,7 +4,7 @@ I have created multiple products that people use on a day-to-day basis, such as 
 
 After Paratime, I created https://shortbooks.app, which allows you to write short books online. It is a platform that enables people to learn new skills and knowledge in a fast and structured way.
 
-Recently, I developed https://cottonchat.com, which helps you find people who want to talk about the same topics. I created it to make it easier to find new friends or love interests with similar interests, fields of work, and beliefs.
+Recently, I developed https://cottonchat.com, which helps you find people who want to talk about the same topics. I created it so that people can find new friends or maybe love interest with with similar passions and goals.
 
 
 ![](https://komarev.com/ghpvc/?username=arnavzek&label=PROFILE+VIEWS)
