@@ -32,7 +32,7 @@ Recently, I developed https://cottonchat.com, which helps you find people who wa
 <a href="https://www.behance.net/arnavzek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="arnavzek" height="30" width="40" /></a>
 </p>
 
-<h1>Projects</h1> 
+<h1 align="center">My Projects 💡</h1>
 
 <h2>Paratime</h2> 
 <img src="https://arnav.upon.one/projects/paratime.png" width="400"/>
