@@ -12,26 +12,25 @@ Recently, I developed https://cottonchat.com, which helps you find people who wa
 ### Website: https://arnav.upon.one
 ### Email: arnav010singh@gmail.com (Open for freelance)
 
-# Projects
+<h1>Projects</h1> 
 
-
-## Paratime
-![Paratime](https://arnav.upon.one/projects/paratime.png)
-## A VsCode extension that turns programming into a social game.
+<h2>Paratime</h2> 
+<img src="https://arnav.upon.one/projects/paratime.png" width="200"/>
+<h3> A VsCode extension that turns programming into a social game. </h3>
 Basically, you install the VsCode extension and then you can see how many hours your friends have clocked vs how many hours you have clocked and on what project.
 Technologies: VsCode API, Node.js, Express, React, MongoDB
 Website: https://paratime.app
 
-## ShortBooks
-![shortbooks](https://arnav.upon.one/projects/shortbooks.png)
-## Online libary of shortbooks
+<h2>ShortBooks</h2> 
+<img src="https://arnav.upon.one/projects/shortbooks.png" width="200"/>
+<h3>  Online libary of shortbooks</h3>
 Shortbooks is a platform where you can write online short books. Short books help you learn things faster with easy-to-understand, structured concepts.
 Node.js, Express, React, MongoDB, MaterialUI
 Website: https://shortbooks.app
 
-## CottonChat
-![Paratime](https://arnav.upon.one/projects/cottonchat.png)
-## A chat application where you can find people what want to talk about the same topic.
+<h2>CottonChat</h2> 
+<img src="https://arnav.upon.one/projects/cottonchat.png" width="200"/>
+<h3>  A chat application where you can find people what want to talk about the same topic.</h3>
 You just Type in what you want to chat about and people with similar interest will reach out to you through chat. (You can also choose to make yourself anonymous)
 Node.js, Express, React, MongoDB, MaterialUI
 Website: https://cottonchat.com
