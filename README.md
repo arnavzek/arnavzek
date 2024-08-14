@@ -42,27 +42,36 @@ Recently, I developed https://cottonchat.com, which helps you find people who wa
 <a href="https://www.behance.net/arnavzek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="arnavzek" height="30" width="40" /></a>
 </p>
 
+<br/>
 <h2 align="left">My Projects 💡</h2>
 
 <h2>Paratime</h2> 
 <img src="https://arnav.upon.one/projects/paratime.png" width="400"/>
 <h3> A VsCode extension that turns programming into a social game. </h3>
-Basically, you install the VsCode extension and then you can see how many hours your friends have clocked vs how many hours you have clocked and on what project.
+<p>
+  
+ Basically, you install the VsCode extension and then you can see how many hours your friends have clocked vs how many hours you have clocked and on what project.
 Technologies: VsCode API, Node.js, Express, React, MongoDB
+</p>
 Website: https://paratime.app
 
 <h2>ShortBooks</h2> 
 <img src="https://arnav.upon.one/projects/shortbooks.png" width="400"/>
 <h3>  Online libary of shortbooks</h3>
-Shortbooks is a platform where you can write online short books. Short books help you learn things faster with easy-to-understand, structured concepts.
-Node.js, Express, React, MongoDB, MaterialUI
+<p>Shortbooks is a platform where you can write online short books. Short books help you learn things faster with easy-to-understand, structured concepts.
+Technologies: Node.js, Express, React, MongoDB, MaterialUI
+</p>
 Website: https://shortbooks.app
 
 <h2>CottonChat</h2> 
 <img src="https://arnav.upon.one/projects/cottonchat.png" width="400"/>
 <h3>  A chat application where you can find people what want to talk about the same topic.</h3>
+<p>
+  
+
 You just Type in what you want to chat about and people with similar interest will reach out to you through chat. (You can also choose to make yourself anonymous)
-Node.js, Express, React, MongoDB, MaterialUI
+Technologies: Node.js, Express, React, MongoDB, MaterialUI
+</p>
 Website: https://cottonchat.com
 
 <br/>
