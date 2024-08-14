@@ -36,14 +36,13 @@ Recently, I developed https://cottonchat.com, which helps you find people who wa
 
 <h5 align="left">Connect with me:</h5>
 <p align="left">
-<a href="https://codepen.io/arnavzek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="arnavzek" height="30" width="40" /></a>
 <a href="https://twitter.com/arnavzek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arnavzek" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/arnavzek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arnavzek" height="30" width="40" /></a>
 <a href="https://instagram.com/arnavzek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arnavzek" height="30" width="40" /></a>
 <a href="https://www.behance.net/arnavzek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="arnavzek" height="30" width="40" /></a>
 </p>
 
-<h1 align="center">My Projects 💡</h1>
+<h3 align="left">My Projects 💡</h3>
 
 <h2>Paratime</h2> 
 <img src="https://arnav.upon.one/projects/paratime.png" width="400"/>
