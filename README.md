@@ -16,11 +16,11 @@ Recently, I developed https://cottonchat.com, which helps you find people who wa
 - 👨‍💻 My Website: [arnav.upon.one](arnav.upon.one)
 
 - 📫 How to reach me **arnav010singh@gmail.com**
+  
 ![](https://komarev.com/ghpvc/?username=arnavzek&label=PROFILE+VIEWS)
 
 
-
-<h3 align="left">Connect with me:</h3>
+<h5 align="left">Connect with me:</h5>
 <p align="left">
 <a href="https://codepen.io/arnavzek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="arnavzek" height="30" width="40" /></a>
 <a href="https://twitter.com/arnavzek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arnavzek" height="30" width="40" /></a>
