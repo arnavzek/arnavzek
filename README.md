@@ -6,21 +6,29 @@
 
 
 <br/>
+
+<p>
+  
+
 I have created multiple products that people use on a day-to-day basis, such as https://paratime.app, a VSCode extension that allows you to see how many hours your friends have coded compared to you, making programming social and fun.
+</p>
 
-<br/>
 
+<p>
+
+  
 
 After Paratime, I created https://shortbooks.app, which allows you to write short books online. It is a platform that enables people to learn new skills and knowledge in a fast and structured way.
+</p>
 
+<p>
 Recently, I developed https://cottonchat.com, which helps you find people who want to talk about the same topics. I created it so that people can find new friends or maybe love interest with with similar passions and goals.
-
+</p>
 
 👨‍💻 Website: [arnav.upon.one](arnav.upon.one)
 
-💼 Open For Freelance Projects
+💼 Open for freelance projects: **arnav010singh@gmail.com**
 
-📫 Email **arnav010singh@gmail.com**
 
   
 ![](https://komarev.com/ghpvc/?username=arnavzek&label=PROFILE+VIEWS)
