@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Arnav Zek</h1>
 <h3 align="center">Full Stack Dev . 3D Artist . Game Dev . UI/UX Designer</h3>
 
-<center>
-- 👨‍💻 My Website: [arnav.upon.one](arnav.upon.one)
 
-- 📫 How to reach me **arnav010singh@gmail.com**
-</center>
+
+
 
 <br/>
 I have created multiple products that people use on a day-to-day basis, such as https://paratime.app, a VSCode extension that allows you to see how many hours your friends have coded compared to you, making programming social and fun.
@@ -15,6 +13,9 @@ After Paratime, I created https://shortbooks.app, which allows you to write shor
 Recently, I developed https://cottonchat.com, which helps you find people who want to talk about the same topics. I created it so that people can find new friends or maybe love interest with with similar passions and goals.
 
 
+- 👨‍💻 My Website: [arnav.upon.one](arnav.upon.one)
+
+- 📫 How to reach me **arnav010singh@gmail.com**
 ![](https://komarev.com/ghpvc/?username=arnavzek&label=PROFILE+VIEWS)
 
 
@@ -50,6 +51,12 @@ Website: https://shortbooks.app
 You just Type in what you want to chat about and people with similar interest will reach out to you through chat. (You can also choose to make yourself anonymous)
 Node.js, Express, React, MongoDB, MaterialUI
 Website: https://cottonchat.com
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arnavzek&show_icons=true&locale=en&layout=compact" alt="arnavzek" /></p>
 
 <!--
 **arnavzek/arnavzek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
