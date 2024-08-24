@@ -25,7 +25,7 @@ After Paratime, I created https://shortbooks.app, which allows you to write shor
 Recently, I developed https://cottonchat.com, which helps you find people who want to talk about the same topics. I created it so that people can find new friends or maybe love interest with with similar passions and goals.
 </p>
 
-👨‍💻 Website: [arnav.upon.one](arnav.upon.one)
+👨‍💻 Website: [arnav.upon.one](https://arnav.upon.one)
 
 💼 Open for freelance projects: **arnav010singh@gmail.com**
 
